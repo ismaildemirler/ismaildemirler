@@ -40,7 +40,24 @@
      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a> 
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a> 
      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a> 
-      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>  <br/>
+      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></a>
+       <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <br/>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a> <br/>
+  <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>  
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>  
+     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>  
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>  
+     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
     </p>
 <hr></hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildemirler&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildemirler&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildemirler&theme=blue-green" />
