@@ -5,12 +5,11 @@
 <li>                                                                 
 <p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on fullstack project which has Spring Boot Backend Framework, and Angular Frontend Framework tech stack</p>
 </li>
-<li>
 <li>                                                                 
 <p>💪🏼 Future Goals: Learn more technologies - Improving myself on Docker, Kubernetes, GCP, Azure... and being a DevOps engineer.</p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I can colloborate on projects which includes some R.D environment as a backend developer</p>
+<p><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I can colloborate on projects which includes some research and devlopment environment as a backend developer</p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <strong><a href="mailto:ismail.demirler@gmail.com">ismail.demirler@gmail.com</a></strong></p>
