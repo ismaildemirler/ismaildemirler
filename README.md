@@ -56,7 +56,18 @@
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>  
      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>  
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>  
-     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
+     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> <br/>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a> <br/>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     </p>
 <hr></hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildemirler&theme=blue-green" />
