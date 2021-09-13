@@ -70,5 +70,13 @@
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     </p>
 <hr></hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildemirler&theme=blue-green" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildemirler&theme=blue-green" />
+<table>
+<thead>
+<tr>
+<th><a href="https://github.com/ismaildemirler/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildemirler&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" style="max-width: 100%;"/></a></th>
+<th><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildemirler&layout=compact&theme=buefy&hide_border=true&show_icons=true" style="max-width: 100%;"/></a></th>
+</tr>
+</thead>
+</table>
+
