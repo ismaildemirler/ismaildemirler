@@ -31,7 +31,6 @@
 <p>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Java" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Java" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
      <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -65,7 +64,6 @@
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
-    <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     </p>
 <hr></hr>
