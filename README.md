@@ -43,7 +43,6 @@
       <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
       <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></a>
-       <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <br/>
     <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
